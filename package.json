@@ -1,6 +1,6 @@
 {
   "name": "mifx-ui",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Base component for mifx apps",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
