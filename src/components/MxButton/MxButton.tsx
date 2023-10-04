@@ -11,7 +11,7 @@ type MxButtonProps = {
 const MxButton = function (props: MxButtonProps) {
   return (
     <TouchableOpacity onPress={props.onPress}>
-      <Text>{props.text}</Text>
+      <Text>{props.text} </Text>
     </TouchableOpacity>
   );
 };
